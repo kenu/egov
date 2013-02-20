@@ -8,7 +8,8 @@ public class DummyTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		int i = 1;
+		assertTrue(1 == i);
 	}
 
 }
