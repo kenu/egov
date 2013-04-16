@@ -1,7 +1,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<!-- 수정일 수성자 수정내용 =========== ======== ================================================= 
-		2011.09.26 이기하 library 정리 2012.11.14 이기하 jsp-api 라이브러리 추가 2012.11.19 이기하 
+	<!-- 수정일 수성자 수정내용 =========== ======== ===============
+.
+.================================== 
+	
+	2011.09.26 이기하 library 정리 2012.11.14 이기하 jsp-api 라이브러리 추가 2012.11.19 이기하 
 		cubrid 라이브러리 추가 -->
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>egovframework</groupId>
